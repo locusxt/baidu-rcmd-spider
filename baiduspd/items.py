@@ -11,4 +11,6 @@ import scrapy
 class BaiduspdItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    query = scrapy.Field()
+    topic = scrapy.Field()
     pass

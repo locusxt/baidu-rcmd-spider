@@ -1,0 +1,10 @@
+*.json
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+*.list
+*.csv
+*.bk
